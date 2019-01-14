@@ -1,3 +1,10 @@
+# Real project files
+/gradle
+/.gradle
+/.idea
+/build
+*.bin
+
 # Compiled class file
 *.class
 
